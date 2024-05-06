@@ -28,21 +28,13 @@ namespace WebMySQL01
 
         //Initialize values 
         private void Initialize()
-        {
+        {           
 
-            //DADOS CONEXAO PROFESSOR
-            //server = "grandeporto.ddns.net";
-            ////server = "127.0.0.1";
-            //database = "Prog22023";
-            //uid = "programador";
-            //password = "Dados@2023";
-            //port = "3306";
-
-            server = "127.0.0.1"; //"127.0.0.1" ou "localhost"
-            database = "formandos2_prog13";
-            uid = "Programador2024";
-            password = "Programador";
-            port = "3306";
+            server = "x.x.x.x"; 
+            database = "************";
+            uid = "************";
+            password = "************";
+            port = "************";
 
             string connectionString;
             connectionString = "SERVER=" + server + ";" + "DATABASE=" +
