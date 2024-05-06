@@ -1,0 +1,137 @@
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\WebMySQL01.dll.config
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\WebMySQL01.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\WebMySQL01.pdb
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\csc.exe
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\csc.exe.config
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\csc.rsp
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\csi.exe
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\csi.exe.config
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\csi.rsp
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\Microsoft.CodeAnalysis.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\Microsoft.CSharp.Core.targets
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\Microsoft.Managed.Core.targets
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\Microsoft.VisualBasic.Core.targets
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\Microsoft.Win32.Primitives.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.AppContext.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.Collections.Immutable.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.Console.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.Diagnostics.StackTrace.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.Globalization.Calendars.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.IO.Compression.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.IO.Compression.ZipFile.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.IO.FileSystem.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.IO.FileSystem.Primitives.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.Net.Http.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.Net.Sockets.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.Reflection.Metadata.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.Security.Cryptography.Encoding.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.Security.Cryptography.Primitives.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.Text.Encoding.CodePages.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.Threading.Tasks.Extensions.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.ValueTuple.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.Xml.ReaderWriter.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.Xml.XmlDocument.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.Xml.XPath.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\System.Xml.XPath.XDocument.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\vbc.exe
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\vbc.exe.config
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\vbc.rsp
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\VBCSCompiler.exe
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\roslyn\VBCSCompiler.exe.config
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\obj\Debug\WebMySQL01.csprojAssemblyReference.cache
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\obj\Debug\WebMySQL01.csproj.CoreCompileInputs.cache
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\obj\Debug\WebMySQL01.csproj.CopyComplete
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\obj\Debug\WebMySQL01.dll
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\obj\Debug\WebMySQL01.pdb
+V:\IEFP\Lisboa\Marquês\NST-PROG02-2019\3936\ASPCODE\WebApplication\WebMySQL01\bin\MySql.Data.dll
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\WebMySQL01.dll.config
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\WebMySQL01.dll
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\WebMySQL01.pdb
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\csc.exe
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\csc.exe.config
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\csc.rsp
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\csi.exe
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\csi.exe.config
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\csi.rsp
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\Microsoft.Managed.Core.targets
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\System.Collections.Immutable.dll
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\System.Reflection.Metadata.dll
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\vbc.exe
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\vbc.exe.config
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\vbc.rsp
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\VBCSCompiler.exe
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\VBCSCompiler.exe.config
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\obj\Debug\WebMySQL01.csproj.AssemblyReference.cache
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\obj\Debug\WebMySQL01.csproj.CoreCompileInputs.cache
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\obj\Debug\WebMySQL01.csproj.CopyComplete
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\obj\Debug\WebMySQL01.dll
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\obj\Debug\WebMySQL01.pdb
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\System.Buffers.dll
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\System.Memory.dll
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\System.Numerics.Vectors.dll
+E:\IEFP\Alcoitão\Programação 22023 - Isabel, Mafalda Teixeira - F@D - GesFaD\CODE\ProjetosWeb\WebMySQL01\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+V:\WebMySQL01\obj\Debug\WebMySQL01.csproj.AssemblyReference.cache
+V:\WebMySQL01\obj\Debug\WebMySQL01.csproj.CoreCompileInputs.cache
+V:\WebMySQL01\bin\WebMySQL01.dll.config
+V:\WebMySQL01\bin\WebMySQL01.dll
+V:\WebMySQL01\bin\WebMySQL01.pdb
+V:\WebMySQL01\bin\MySql.Data.dll
+V:\WebMySQL01\obj\Debug\WebMySQL01.csproj.CopyComplete
+V:\WebMySQL01\obj\Debug\WebMySQL01.dll
+V:\WebMySQL01\obj\Debug\WebMySQL01.pdb
+E:\IEFP\Lisboa\Marquês\NST-PROG13 - Ivo Silva, Inês Santos - Ficou Híbrido\CODE\WebApplicationProg13\WebMySQL01\bin\WebMySQL01.dll.config
+E:\IEFP\Lisboa\Marquês\NST-PROG13 - Ivo Silva, Inês Santos - Ficou Híbrido\CODE\WebApplicationProg13\WebMySQL01\bin\WebMySQL01.dll
+E:\IEFP\Lisboa\Marquês\NST-PROG13 - Ivo Silva, Inês Santos - Ficou Híbrido\CODE\WebApplicationProg13\WebMySQL01\bin\WebMySQL01.pdb
+E:\IEFP\Lisboa\Marquês\NST-PROG13 - Ivo Silva, Inês Santos - Ficou Híbrido\CODE\WebApplicationProg13\WebMySQL01\bin\MySql.Data.dll
+E:\IEFP\Lisboa\Marquês\NST-PROG13 - Ivo Silva, Inês Santos - Ficou Híbrido\CODE\WebApplicationProg13\WebMySQL01\obj\Debug\WebMySQL01.csproj.AssemblyReference.cache
+E:\IEFP\Lisboa\Marquês\NST-PROG13 - Ivo Silva, Inês Santos - Ficou Híbrido\CODE\WebApplicationProg13\WebMySQL01\obj\Debug\WebMySQL01.csproj.CoreCompileInputs.cache
+E:\IEFP\Lisboa\Marquês\NST-PROG13 - Ivo Silva, Inês Santos - Ficou Híbrido\CODE\WebApplicationProg13\WebMySQL01\obj\Debug\WebMySQL01.csproj.CopyComplete
+E:\IEFP\Lisboa\Marquês\NST-PROG13 - Ivo Silva, Inês Santos - Ficou Híbrido\CODE\WebApplicationProg13\WebMySQL01\obj\Debug\WebMySQL01.dll
+E:\IEFP\Lisboa\Marquês\NST-PROG13 - Ivo Silva, Inês Santos - Ficou Híbrido\CODE\WebApplicationProg13\WebMySQL01\obj\Debug\WebMySQL01.pdb
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\ASP.NET\WebApplicationProg13\WebMySQL01\bin\WebMySQL01.dll.config
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\ASP.NET\WebApplicationProg13\WebMySQL01\bin\WebMySQL01.dll
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\ASP.NET\WebApplicationProg13\WebMySQL01\bin\WebMySQL01.pdb
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\ASP.NET\WebApplicationProg13\WebMySQL01\bin\MySql.Data.dll
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\ASP.NET\WebApplicationProg13\WebMySQL01\bin\Google.Protobuf.dll
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\ASP.NET\WebApplicationProg13\WebMySQL01\bin\ZstdNet.dll
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\ASP.NET\WebApplicationProg13\WebMySQL01\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\ASP.NET\WebApplicationProg13\WebMySQL01\bin\BouncyCastle.Crypto.dll
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\ASP.NET\WebApplicationProg13\WebMySQL01\bin\Ubiety.Dns.Core.dll
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\ASP.NET\WebApplicationProg13\WebMySQL01\bin\System.Buffers.dll
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\ASP.NET\WebApplicationProg13\WebMySQL01\bin\K4os.Compression.LZ4.dll
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\ASP.NET\WebApplicationProg13\WebMySQL01\bin\K4os.Hash.xxHash.dll
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\ASP.NET\WebApplicationProg13\WebMySQL01\bin\MySql.Data.xml
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\ASP.NET\WebApplicationProg13\WebMySQL01\obj\Debug\WebMySQL01.csproj.AssemblyReference.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\ASP.NET\WebApplicationProg13\WebMySQL01\obj\Debug\WebMySQL01.csproj.CoreCompileInputs.cache
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\ASP.NET\WebApplicationProg13\WebMySQL01\obj\Debug\WebMySQL01.csproj.CopyComplete
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\ASP.NET\WebApplicationProg13\WebMySQL01\obj\Debug\WebMySQL01.dll
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\ASP.NET\WebApplicationProg13\WebMySQL01\obj\Debug\WebMySQL01.pdb
+C:\Users\Breno Lucena\OneDrive\Documentos\workspace\ASP.NET\WebApplicationProg13\WebMySQL01\bin\FormsAuthenticationExtensions.dll

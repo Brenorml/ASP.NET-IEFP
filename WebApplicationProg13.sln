@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebArea", "WebApplicationProg13\WebArea.csproj", "{477FB60C-C08C-4D05-A81E-22EBEA9DD45B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSalarios", "WebSalarios\WebSalarios.csproj", "{5405489C-0B81-4E4F-9FF6-728A8E86BC45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCalendario", "WebCalendario\WebCalendario.csproj", "{AE388A1D-9B8D-41A4-83C9-BF71819DB60C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebInquerito", "WebInquerito\WebInquerito.csproj", "{92B3AE16-DFFD-4EBF-8434-446897C45430}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMySQL01", "WebMySQL01\WebMySQL01.csproj", "{D25AFE04-ADAD-433F-A6C5-9BFE05D5334C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Festinha.PT", "Festinha.PT\Festinha.PT.csproj", "{6765306C-707A-4D82-8941-CC841788747D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{477FB60C-C08C-4D05-A81E-22EBEA9DD45B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477FB60C-C08C-4D05-A81E-22EBEA9DD45B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477FB60C-C08C-4D05-A81E-22EBEA9DD45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477FB60C-C08C-4D05-A81E-22EBEA9DD45B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5405489C-0B81-4E4F-9FF6-728A8E86BC45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5405489C-0B81-4E4F-9FF6-728A8E86BC45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5405489C-0B81-4E4F-9FF6-728A8E86BC45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5405489C-0B81-4E4F-9FF6-728A8E86BC45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE388A1D-9B8D-41A4-83C9-BF71819DB60C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE388A1D-9B8D-41A4-83C9-BF71819DB60C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE388A1D-9B8D-41A4-83C9-BF71819DB60C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE388A1D-9B8D-41A4-83C9-BF71819DB60C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B3AE16-DFFD-4EBF-8434-446897C45430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B3AE16-DFFD-4EBF-8434-446897C45430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B3AE16-DFFD-4EBF-8434-446897C45430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B3AE16-DFFD-4EBF-8434-446897C45430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D25AFE04-ADAD-433F-A6C5-9BFE05D5334C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D25AFE04-ADAD-433F-A6C5-9BFE05D5334C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D25AFE04-ADAD-433F-A6C5-9BFE05D5334C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D25AFE04-ADAD-433F-A6C5-9BFE05D5334C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6765306C-707A-4D82-8941-CC841788747D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6765306C-707A-4D82-8941-CC841788747D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6765306C-707A-4D82-8941-CC841788747D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6765306C-707A-4D82-8941-CC841788747D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF5318C1-4A68-4AA4-A95B-F622CFA4F113}
+	EndGlobalSection
+EndGlobal
