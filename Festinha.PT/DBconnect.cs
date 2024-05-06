@@ -23,11 +23,11 @@ namespace Festinha.PT
         private void Initialize()
         {
             //VAIAVEIS E VALORES LOCAIS
-            server = "127.0.0.1"; //"127.0.0.1" ou "localhost"
-            database = "festinha_pt";
-            uid = "Breno";
-            password = "123456";
-            port = "3306";
+            server = "x.x.x.x"; //"127.0.0.1" ou "localhost"
+            database = "xxxxx";
+            uid = "xxxxx";
+            password = "xxxxx";
+            port = "xxxxx";
 
             string connectionString;
             connectionString = "SERVER=" + server + ";" + "DATABASE=" +
