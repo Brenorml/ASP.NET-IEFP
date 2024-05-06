@@ -27,11 +27,11 @@ namespace Festinha.PT
         private void Initialize()
         {
             //VALORES LOCAIS
-            server = "127.0.0.1"; //"127.0.0.1" ou "localhost"
-            database = "festinha_pt";
-            uid = "admin_festinha";
-            password = "Qwerty12";
-            port = "3306";
+            server = "x.x.x.x"; //"127.0.0.1" ou "localhost"
+            database = "xxxxxxx";
+            uid = "xxxxxxx";
+            password = "xxxxxxx";
+            port = "xxxxxxx";
 
             string connectionString;
             connectionString = "SERVER=" + server + ";" + "DATABASE=" +
@@ -289,10 +289,10 @@ namespace Festinha.PT
                     this.CloseConnection();
                 }
                 // Configurações do servidor SMTP 
-                string smtpServer = "smtp.gmail.com";
-                int smtpPort = 587; // Porta padrão para SMTP
-                string smtpUsername = "equipa3_prog13@gmail.com"; // endereço de email
-                string smtpPassword = "tfpf qrna drbk nvyb"; // senha do email
+                string smtpServer = "xxxxxxxx";
+                int smtpPort = 000; // Porta padrão para SMTP
+                string smtpUsername = "xxxxxxxxx"; // endereço de email
+                string smtpPassword = "xxxxxxxxx; // senha do email
 
                 // Destinatário do email
                 string toEmail = emailAdress;
